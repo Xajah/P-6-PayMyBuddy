@@ -42,11 +42,11 @@ Vous pouvez stocker ces variables dans un fichier `database.properties` à la ra
 
 Exemple de contenu pour votre `database.properties` :
 
-DB_HOST=localhost
-DB_PORT=6060
-DB_NAME=paymybuddy
-DB_USERNAME=myappuser
-DB_PASSWORD=MON_MOT_DE_PASSE
+DB_HOST=localhost  
+DB_PORT=6060  
+DB_NAME=paymybuddy  
+DB_USERNAME=myappuser  
+DB_PASSWORD=MON_MOT_DE_PASSE  
 
 ## 🗃️ Installation rapide
 
